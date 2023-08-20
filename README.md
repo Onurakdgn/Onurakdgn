@@ -1,4 +1,4 @@
-<h2 align="left">Benim adım Onur ve yazılım dünyasına meraklı bir geliştiriciyim. Şu an özellikle programlama dilleri üzerine çalışıyorum ve bu alanda kendimi sürekli geliştirmeye odaklanıyorum.</h2>
+<h2 align="left"> Hi 👋! My name is Onur</h2>
 
 ###
 
