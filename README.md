@@ -43,9 +43,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onurakdgn&show_icons=true&theme=dark&locale=en&layout=compact" alt="onurakdgn" /></p>
 
+###Snake
 
-&theme=dark
 ![snake gif](https://github.com/Onurakdgn/Onurakdgn/blob/output/github-contribution-grid-snake.svg)
 
-
+###
 
